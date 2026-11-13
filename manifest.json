@@ -1,0 +1,27 @@
+{
+  "background_color": "#ffffff",
+  "description": "Linofinanzas — Finanzas personales multimoneda en Bolívares, Dólares, Euros y USDT.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "linofinanzas",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "proyectofinanzas",
+  "start_url": "/",
+  "theme_color": "#108B5B",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,&lt;svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'&gt;&lt;rect width='64' height='64' rx='18' fill='%23108B5B'/&gt;&lt;path d='M20 18v28h24v-6H27V18h-7z' fill='%23fff'/&gt;&lt;circle cx='43' cy='23' r='5' fill='%23A8F0C6'/&gt;&lt;/svg&gt;",
+      "type": "image/svg+xml",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "proyectofinanzas"
+}
