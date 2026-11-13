@@ -1,0 +1,17 @@
+{
+  "name": "Linofinanzas",
+  "short_name": "Linofinanzas",
+  "description": "Linofinanzas - Finanzas personales multimoneda",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#108B58",
+  "icons": [
+    {
+      "src": "https://www.pwabuilder.com/assets/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
